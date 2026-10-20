@@ -161,10 +161,12 @@ The dashboard helps users:
 * Explore the data interactively
 * Support data-driven decision making
 
-> 📌 Add your Power BI dashboard screenshot here.
+> <img width="1063" height="597" alt="image" src="https://github.com/user-attachments/assets/35e0c376-ca13-4be9-93e0-7b9fe2544668" />
+
 
 ```text
-![Power BI Dashboard](images/dashboard.png)
+<img width="1063" height="597" alt="image" src="https://github.com/user-attachments/assets/c5c996d0-18e6-46bb-8785-e06ab88b28c7" />
+
 ```
 
 ---
@@ -296,7 +298,7 @@ Data-Analytics-Project/
 * Data Cleaning & Preprocessing
 * Python & Pandas
 * SQL
-* PostgreSQL / MySQL / SQL Server
+* PostgreSQL
 * Data Visualization
 * Power BI
 * Dashboard Development
